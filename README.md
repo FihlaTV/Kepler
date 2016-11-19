@@ -26,8 +26,15 @@ App Name as Headline
 ## Version 
 * Version X.Y
 
-## How-to use this code
-* see [INSTRUCTIONS](https://github.com/username/appname/blob/master/INSTRUCTIONS.md) file
+## Project Setup
+#### Android Version Targeting
+* This app is currently built to run on Android API ##
+* The minimun SDK support is API ##  
+
+#### Getting Started
+* This project has been created using Android Studio and the Gradle build system 
+* It can be directly cloned and imported into Android Studio.
+* Deploy and Run on an Android device or emulator
 
 ## Contact
 #### Developer
