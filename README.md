@@ -12,12 +12,8 @@
 ## Tests
 #### Works on
 * *Devices it works with* 
-* Only add devices/emulators that you actually tested on that work
-* (Ex: Nexus 6P API 23)
-
-#### Does not work on
-* *Devices it doesn't work with*
-* Leave blank if coulndn't find a devices that it doesn't work on
+* Only add phone models and API versions used for testing
+* Example: Nexus 6P API 23
 
 ## Contributors
 ### Artwork
