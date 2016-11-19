@@ -12,8 +12,8 @@
 ## Tests
 #### Works on
 * *Devices it works with* 
-* Only add phone models and API versions used for testing
-* Example: Nexus 6P API 23
+  * Only add phone models and API versions used for testing
+  * Example: Nexus 6P API 23
 
 ## Contributors
 #### Artwork
