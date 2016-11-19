@@ -5,7 +5,7 @@
 #### Screenshot
 ![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android") *(Add app screenshots here)*
 
-#### App Stores *(add this section if deploy to Google Play store)*
+#### App Stores *(add this section if deploy to Google Play store only)*
 <!-- edit this image location -->
 [![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
