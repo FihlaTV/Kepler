@@ -1,24 +1,13 @@
-# Final_Project_README
 App Name as Headline
 ======
-**App Name** is an app for things. Short description here.
+**App Name** is an app for ... Add Short description here.
 
 #### Screenshot
 ![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android")
 
-![Screenshot iOS](http://url/screenshot-appname-ios.png "screenshot iOS")
-
 #### App Stores
 <!-- edit this image location -->
 [![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
-
-<!-- edit this image location -->
-[![Download on the AppStore](https://raw.github.com/repat/README-template/master/appstore.png)](https://itunes.apple.com/app/id123456)
-
-#### QR Market Links
-![QR-Code Android](http://url/qrcode-appname-android.png)
-
-![QR-Code iOS](http://url/qrcode-appname-ios.png)
 
 ## Tests
 #### Works on
