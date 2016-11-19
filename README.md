@@ -1,20 +1,23 @@
-App Name as Headline
+*App Name* as Headline
 ======
-**App Name** is an app for ... Add Short description here.
+**App Name** is an app for ... *Add Short description here.*
 
 #### Screenshot
-![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android")
+![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android") *(Add app screenshots here)*
 
-#### App Stores (add this section if deploy to Google Play store)
+#### App Stores *(add this section if deploy to Google Play store)*
 <!-- edit this image location -->
 [![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
 ## Tests
 #### Works on
-* Devices it works with
+* *Devices it works with* 
+* Only add devices/emulators that you actually tested on that work
+* (Ex: Nexus 6P API 23)
 
 #### Does not work on
-* Devices it doesn't work with
+* *Devices it doesn't work with*
+* Leave blank if coulndn't find a devices that it doesn't work on
 
 ## Contributors
 ### Artwork
