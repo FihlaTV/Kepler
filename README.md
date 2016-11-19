@@ -27,12 +27,12 @@
 * Any permissions needed by the app
 
 ## Version 
-* Version X.Y
+* Version *X.Y*
 
 ## Project Setup
 #### Android Version Targeting
-* This app is currently built to run on Android API ##
-* The minimun SDK support is API ##  
+* This app is currently built to run on *Android API ##*
+* The minimun SDK support is *API ##* 
 
 #### Getting Started
 * This project has been created using Android Studio and the Gradle build system 
@@ -41,4 +41,4 @@
 
 ## Contact
 #### Developer
-* e-mail: 
+* e-mail: *your email address*
