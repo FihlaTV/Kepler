@@ -16,8 +16,11 @@
 * Example: Nexus 6P API 23
 
 ## Contributors
-### Artwork
-* Any credit to artists(music,images,...)
+#### Artwork
+* Any credit to artists(music,images,...) - **must add sources here**
+
+#### Code
+* Code incorporated from other sources other than your own - **must add sources here**
 
 ## Permissions
 * Any permissions needed by the app
