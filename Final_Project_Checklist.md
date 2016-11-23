@@ -1,16 +1,15 @@
-Final Project Checklist
-======
-
 # CSC 285: Final Project Checklist
 
 This checklist may help you as you put the finishing touches on your app.
+
 ## Concept :
 *	Will the 4000 character description and the app name entice people to try it? Why?  
 *	Does this app have the potential to help someone in some meaningful way or to satisfy a real need? How?  
 *	Does the app make realistic assumptions about what people will and will not do? In what way?  
 *	Does the app take advantage of unique capabilities of mobile devices? How? Does it do something that could not be done well on a desktop app?  
 *	Can you see this app becoming “hot” on the Play Store? Why?  
-*	Are there other apps that do what this app does already? If so, what is unique about this new app that will make it stand out?  
+*	Are there other apps that do what this app does already? If so, what is unique about this new app that will make it stand out?   
+
 ## Design:
 *	Is it clear from the Play Store description what the app does?  
 *	Does the app immediately create engagement when run? What hooks the user in?  
