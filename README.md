@@ -3,7 +3,7 @@ Kepler
 Kepler is an app for learning about the different planets of the Solar System.
 
 #### Screenshot
-![Screenshot Android]("https://github.com/CSC-285/FinalProject-Jwheeler1106/blob/master/Screenshot_1481165614.png") *(Add app screenshots here)*
+![Screenshot Android]("https://github.com/CSC-285/FinalProject-Jwheeler1106/blob/master/Screenshot_1481165614.png")
 
 ## Tests
 #### Works on
@@ -13,7 +13,9 @@ Kepler is an app for learning about the different planets of the Solar System.
 
 ## Contributors
 #### Artwork
-* 
+* Spaceship courtesy of http://es.123rf.com.
+* Buttons courtesy of www.pixabay.com
+* Alien courtesy of www.wallpaperrs.com
 
 #### Code
 None
