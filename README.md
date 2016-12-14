@@ -1,6 +1,6 @@
-*App Name* as Headline
+Kepler
 ======
-**App Name** is an app for ... *Add Short description here.*
+Kepler is an app for learning about the different planets of the Solar System.
 
 #### Screenshot
 ![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android") *(Add app screenshots here)*
@@ -12,26 +12,26 @@
 ## Tests
 #### Works on
 * *Devices it works with* 
-  * Only add phone models and API versions used for testing
-  * Example: Nexus 6P API 23
+  * Nexus 6P API 24
+  * Nexus 6P API 23
 
 ## Contributors
 #### Artwork
-* Any credit to artists(music,images,...) - **must add sources here**
+* 
 
 #### Code
-* Code incorporated from other sources other than your own - **must add sources here**
+None
 
 ## Permissions
-* Any permissions needed by the app
+None
 
 ## Version 
-* Version *X.Y*
+* Version 1.0
 
 ## Project Setup
 #### Android Version Targeting
-* This app is currently built to run on *Android API ##*
-* The minimun SDK support is *API ##* 
+* This app is currently built to run on *Android API 24*
+* The minimun SDK support is *API 16* 
 
 #### Getting Started
 * This project has been created using Android Studio and the Gradle build system 
@@ -40,4 +40,4 @@
 
 ## Contact
 #### Developer
-* e-mail: *your email address*
+* johnawheeler@verizon.net
