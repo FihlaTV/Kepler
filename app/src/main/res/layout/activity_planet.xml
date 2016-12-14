@@ -1,0 +1,60 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/spacecraft"
+    >
+
+    <ImageView
+        android:layout_width="240dp"
+        android:layout_height="300dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/planet_image"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fact_button"
+        android:text="@string/factoids"
+        android:layout_alignBaseline="@+id/prev_button"
+        android:layout_alignBottom="@+id/prev_button"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/planet_image"
+        android:layout_toLeftOf="@id/fact_button"
+        android:textColor="@color/colorAccent"
+        android:text="@string/temp_prev"
+        android:id="@+id/prev_button"
+        android:background="@drawable/buttonblue"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/planet_image"
+        android:layout_toRightOf="@id/fact_button"
+        android:textColor="@color/colorAccent"
+        android:text="@string/temp_next"
+        android:id="@+id/next_button"
+        android:background="@drawable/buttonblue"
+        />
+
+    <TextView
+        android:background="@drawable/rectangle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:typeface="monospace"
+        android:textSize="85dp"
+        android:layout_above="@id/planet_image"
+        android:id="@+id/planet_name"
+        />
+
+
+</RelativeLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/spacecraft"
+    >
+
+    <ImageView
+        android:layout_width="240dp"
+        android:layout_height="300dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/planet_image"
+        />
+
+    <Button
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:textColor="@color/colorAccent"
+        android:text="@string/temp_prev"
+        android:id="@+id/prev_button"
+        android:background="@drawable/buttonblue"
+        android:layout_alignTop="@+id/planet_image"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="197dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fact_button"
+        android:text="@string/factoids"
+        android:layout_alignBottom="@+id/planet_image"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:textColor="@color/colorAccent"
+        android:text="@string/temp_next"
+        android:id="@+id/next_button"
+        android:background="@drawable/buttonblue"
+        android:layout_alignBottom="@+id/planet_image"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/prev_button" />
+
+    <TextView
+        android:background="@drawable/rectangle"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:typeface="monospace"
+        android:textSize="45dp"
+        android:id="@+id/planet_name"
+        android:layout_alignTop="@+id/planet_image"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

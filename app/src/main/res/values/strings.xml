@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kepler</string>
+    <string name="factoids">Facts</string>
+    <string name="temp_next">Next Planet</string>
+    <string name="temp_prev">Last Planet</string>
+    <string name="about_app">About</string>
+</resources>
